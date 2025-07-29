@@ -1,0 +1,60 @@
+
+body {
+    font-family: monospace;
+    background-color: firebrick;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contener {
+    height: auto;
+    width: 500px;
+    background-color: rgb(0, 0, 0, 0.5);
+    border-radius: 25px;
+    box-shadow: red;
+    
+}
+
+.title {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.sol {
+    text-align: center;
+    margin: 15px;
+}
+
+
+
+.main-course {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.appetizer {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+img {
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+li {
+    font-size: 15px;
+    font-family: 600;
+    cursor: no-drop;
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+li:hover {
+    font-size: 18px;
+    font-style: italic;
+}
+
+
